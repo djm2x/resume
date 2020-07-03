@@ -1,0 +1,13 @@
+{
+  "name": "cv_html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "init": "git init && git remote add origin https://github.com/djm2x/resume.git",
+    "push": "git add . && git commit -m \"commit\" && git push -u origin master"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
